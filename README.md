@@ -7,4 +7,4 @@ This is the second line added by "testuser_1" branch.
 
 This is the second line added by "testuser_2" branch.
 
-This is the first Jenkins trigger.
+This is the second line added by "testuser_3" branch.
