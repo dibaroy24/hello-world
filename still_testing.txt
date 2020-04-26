@@ -1,0 +1,4 @@
+This text file was added for Octopus Deploy practice.
+- Upload the package
+- Create release
+- Deploy release
